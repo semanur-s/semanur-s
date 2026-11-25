@@ -25,6 +25,7 @@ Kocaeli Üniversitesi Yapay Zeka ve Makine Öğrenmesi 3. sınıf öğrencisiyim
 
 | Proje | Açıklama |
 |---|---|
+| [Drone Tespit ve Takibi](https://github.com/semanur-s/drone-detection-tracking) | YOLO11n + ByteTrack ile drone tespiti ve takibi. 2.000 test görüntüsünde mAP@0.5 0.889, T4'te 43 FPS takip, boyuta göre başarı analizi ve ONNX/CPU hız karşılaştırması |
 | [Klasik CV Pipeline](https://github.com/semanur-s/classical-cv-pipeline) | Staj çalışmalarım: Harris/Shi-Tomasi köşe tespiti (sıfırdan), SIFT eşleştirme, HOG + SVM ile bisiklet tespiti (F1 0.90) ve GTSRB'de 43 sınıflı trafik levhası sınıflandırma (%92.6) |
 | [El Yazısı Hesap Makinesi](https://github.com/semanur-s/handwriting-number-recognition-project) | Çizilen rakam ve operatörleri CNN ile tanıyıp hesap yapan GUI uygulaması. Augmentation'lı ve augmentation'sız modelleri karşılaştırıyor, confusion matrix analizi içeriyor |
 | OOP-Brain | Takım arkadaşlarımla sıfırdan yazdığımız C++ sinir ağı kütüphanesi. Benim kısmım katman entegrasyonu ve dokümantasyon |
